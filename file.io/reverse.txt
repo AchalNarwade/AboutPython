@@ -1,0 +1,3 @@
+ Hello, I am Achal.
+I love coding.
+Python is fun!
